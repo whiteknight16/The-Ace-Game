@@ -7,7 +7,7 @@ const cardObjectDefinitions = [
 ]
 const aceId = 4
 
-const cardBackImgPath = './images/card-back-Blue.png'
+const cardBackImgPath = 'https://github.com/whiteknight16/The-Ace-Game/blob/main/images/card-back-Blue.png'
 
 let cards = []
 
